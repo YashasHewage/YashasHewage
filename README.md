@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Yashas Hewage</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashewage&label=Profile%20views&color=0e75b6&style=flat" alt="yashashewage" /> </p>
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=WasathTheekshana&icon=2&color=11" align="right" />
+</div>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rashmin_yashas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmin_yashas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashas hewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas hewage" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/WasathTheekshana/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
+</div>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashashewage&show_icons=true&locale=en&layout=compact" alt="yashashewage" /></p>
+  </br></br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Microsoft+Learn+Student+Ambassador;Full+Stack+Developer;UI%2FUX+Engineer)](https://git.io/typing-svg)
+</div>
+  
+   <p align="center">
+     <samp>
+       <a href="https://linkedin.com/in/wasatht" target="_blank">LinkedIn</a> .
+       <a href="https://www.wasath.me" target="_blank">Portfolio</a> .
+       <a href="https://instagram.com/wasath.theekshana" target="_blank">Reels</a> .
+       <a href="https://www.youtube.com/channel/UCyp6WVufUctZXAtP9D1Keuw" target="_blank">Youtube</a> .
+       <a href="https://discordapp.com/users/Wasaaa#0743">Discord</a> 
+     </samp>
+    </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashewage&show_icons=true&locale=en" alt="yashashewage" /></p>
+<br>
+
+<div align='center'>
+  <samp>
+  <p> Simple right? Yeah that's me! | I'm Wasath Theekshana from Sri Lanka🤍</p> </br>
+  </samp>
+</div>
